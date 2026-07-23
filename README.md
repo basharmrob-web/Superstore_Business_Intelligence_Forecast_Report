@@ -49,4 +49,3 @@ The relational data model is structured using star-schema design principles:
 3. Open the `.pbix` file included in this repository to explore the interactive dashboards and data models.
 
 ---
-*Created with ❤️ and advanced analytics.*
